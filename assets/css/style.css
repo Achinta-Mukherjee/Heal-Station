@@ -612,6 +612,13 @@ section {
 /*--------------------------------------------------------------
 # About Us
 --------------------------------------------------------------*/
+.about .content{  
+  border: 1px solid black;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
 .about .content h3 {
   font-weight: 600;
   font-size: 26px;
@@ -620,6 +627,7 @@ section {
 .about .content ul {
   list-style: none;
   padding: 0;
+  border: 1px solid black;
 }
 
 .about .content ul li {
