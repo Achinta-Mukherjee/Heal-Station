@@ -35,7 +35,7 @@ body{
     height: 100vh;
     background-image: url(16.png);
     background-size: cover;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: #37517e;
 }
 .form1{
     margin: 0;
